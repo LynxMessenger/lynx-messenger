@@ -36,6 +36,7 @@ Launch the app and start testing.
 Clone the project:  
 
 git clone https://github.com/LynxMessenger/lynx-messenger
+
 Open the project in Android Studio.
 
 Wait until all dependencies are synced (Gradle Sync).
