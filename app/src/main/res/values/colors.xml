@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color> <!-- Черный фон -->
+    <color name="gray_light">#AAAAAA</color> <!-- Светло-серый текст (второстепенный) -->
+    <color name="white">#FFFFFF</color> <!-- Белый основной текст -->
+    <color name="dark_blue">#0E1621</color> <!-- Темно-синий для кнопок -->
+    <color name="neon_green">#3EE577</color> <!-- Неоново-зеленый для кнопок -->
+    <color name="rich_black">#121212</color><!-- темный для пузырька отправителя -->
+    <color name="jet">#1F1F1F</color><!-- темно-серый для пузырька принимателя -->
+    <color name="greenish_background">#1A2B1D</color> <!-- Зеленовато-черный фон -->
+    <color name="cropper_background">#121212</color><!-- или #1A1A1A, тёмный, но не полностью чёрный -->
+</resources>

@@ -1,0 +1,34 @@
+# Android / Gradle
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+*.apk
+*.ap_
+
+# IntelliJ / Android Studio
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keystore files (очень важно!)
+*.jks
+*.keystore
+
+# Crashlytics / Firebase
+app/google-services.json
+app/google-services.plist
