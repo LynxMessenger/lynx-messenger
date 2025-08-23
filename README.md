@@ -23,7 +23,7 @@ The goal of the beta test is to showcase UX/UI and collect user feedback.
 
 📱 APK Installation  
 
-Download the latest APK from the **Releases** section.  
+Download the latest APK from the [Releases](https://github.com/LynxMessenger/lynx-messenger/releases/latest) section.  
 
 Install it on your Android device (you may need to allow installation from "Unknown sources").  
 
